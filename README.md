@@ -55,6 +55,20 @@ Every experiment contributes to becoming a better designer.
 
 ---
 
+# Featured Experiments
+
+### 🎮 ECHO / SHIFT — Cinematic Game Design & AI
+
+An original, sound-driven puzzle adventure exploring cinematic
+storytelling, atmospheric environments, player interaction, and
+AI-assisted creative development.
+
+**Status:** Phase 2 — Playable Prototype Development
+
+[Explore ECHO / SHIFT](./experiments/echo-shift/)
+
+---
+
 # Process
 
 Most ideas follow this path:
