@@ -65,7 +65,7 @@ AI-assisted creative development.
 
 **Status:** Phase 2 — Playable Prototype Development
 
-[Explore ECHO / SHIFT](./experiments/echo-shift/)
+🔊 [Explore ECHO / SHIFT](./experiments/echo-shift/)
 
 ---
 
