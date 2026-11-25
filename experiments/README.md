@@ -9,8 +9,8 @@ Each experiment is an opportunity to explore an idea, test a creative direction,
 ## Experiment Index
 
 | Experiment | Focus | Status |
-| ---- | --- | --- |
-| [ECHO / SHIFT](./echo-shift/) | Cinematic game design, sound-driven puzzles, environmental storytelling, and AI-assisted development | In development — Phase 2 |
+| --- | --- | --- |
+| [ECHO / SHIFT](./echo-shift/) &nbsp; | Cinematic game design, sound-driven puzzles, environmental storytelling, and AI-assisted development | In development — Phase 2 |
 
 ## Creative Approach
 
